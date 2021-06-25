@@ -40,19 +40,19 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Podar GPS Nawalgarh, December 2017 - February 2020',
+        description: '10th Board, - 2018',
+        link: 'http://www.gpspodar.in/',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Gyanodaya Public School Dadiya',
+        description: '12th Board, 2018 - 2020',
+        link: 'http://www.gyanodayaschooldadiya.com/',
       },
       {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Manipal University Jaipur',
+        description: 'BCA, 2020 - 2023(Expected)',
+        link: 'https://jaipur.manipal.edu/',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
