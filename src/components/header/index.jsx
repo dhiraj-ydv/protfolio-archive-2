@@ -59,13 +59,13 @@ const Header = ({ metadata = {}, noBlog = false }) => {
               </a>
             </li>
           )}
-          {!noBlog && (
+          {/* {!noBlog && (
             <li className={classes.item}>
           <a className={classes.link} href={resume.pdf}>
             Download
             </a>
             </li>
-          )}
+          )} */}
         </ul>
       </div>
     </div>
