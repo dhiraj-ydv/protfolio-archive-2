@@ -15,9 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/dhirajyadav08/`,
     // Content of the About Me section
-    about: `Hi I am Dhiraj Yadav, a 19 year old Web developer. 1st year BCA student at Manipal University Jaipur.
-            <br>
-            Areas of interest: Programming, Theoretical physics, Psychology`,
+    about: `Hi I am Dhiraj Yadav, a 19 year old Web developer. 1st year BCA student at Manipal University Jaipur. Areas of interest are Programming, Theoretical physics, Psychology`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
