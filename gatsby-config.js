@@ -69,7 +69,7 @@ module.exports = {
       {
         name: 'Other',
         description:
-          'Docker, Heroku, Version Control, API design, Inkscape,
+          'Docker, Heroku, Version Control, API design, Inkscape',
       },
     ],
   },
