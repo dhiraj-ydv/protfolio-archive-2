@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://dhirajyadav.ninja/`,
     // Your Name
     name: 'Dhiraj Yadav',
     // Main Site Title
@@ -22,19 +22,19 @@ module.exports = {
         name: 'SignUpPage',
         description:
           'A signUpPage built using mailchimp API',
-        link: 'https://dashboard.heroku.com/apps/hellodhiraj-signup',
+        link: 'https://hellodhiraj-signup.herokuapp.com/',
       },
       {
         name: 'WeatherApp',
         description:
           'A weatherApp built using openWeatherMap API',
-        link: 'https://dashboard.heroku.com/apps/hellodhiraj-weatherapp',
+        link: 'https://hellodhiraj-weatherapp.herokuapp.com/',
       },
       {
         name: 'ToDoList',
         description:
           'A toDoList built using EJS',
-        link: 'https://dashboard.heroku.com/apps/hellodhiraj-todolist-v1',
+        link: 'https://hellodhiraj-todolist-v1.herokuapp.com/',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
