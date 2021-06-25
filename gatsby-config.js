@@ -5,7 +5,7 @@ module.exports = {
     // Your Name
     name: 'Dhiraj Yadav',
     // Main Site Title
-    title: `Dhiraj Yadav | Full-Stack Developer`,
+    title: `Dhiraj Yadav`,
     // Description that goes under your name in main bio
     description: `Learning Web Developer . Programmer.`,
     // Optional: Twitter account handle
@@ -60,16 +60,16 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'JavaScript (ES6+), HTML5, Node.js, Express.js, CSS, SASS, Bootstrap, jQuery',
       },
       {
         name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        description: 'MongoDB, MySQL',
       },
       {
         name: 'Other',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Docker, Heroku, Version Control, API design, Inkscape,
       },
     ],
   },
