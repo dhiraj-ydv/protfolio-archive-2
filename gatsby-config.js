@@ -19,19 +19,19 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'signupPage',
+        name: 'SignUpPage',
         description:
-          'A signupPage built using mailchimp API',
+          'A signUpPage built using mailchimp API',
         link: 'https://dashboard.heroku.com/apps/hellodhiraj-signup',
       },
       {
-        name: 'weatherApp',
+        name: 'WeatherApp',
         description:
           'A weatherApp built using openWeatherMap API',
         link: 'https://dashboard.heroku.com/apps/hellodhiraj-weatherapp',
       },
       {
-        name: 'toDoList',
+        name: 'ToDoList',
         description:
           'A toDoList built using EJS',
         link: 'https://dashboard.heroku.com/apps/hellodhiraj-todolist-v1',
