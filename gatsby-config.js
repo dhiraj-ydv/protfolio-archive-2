@@ -38,7 +38,7 @@ module.exports = {
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
-    education: [
+    experience: [
       {
         name: 'Acme Corp',
         description: 'Full-Stack Developer, February 2020 - Present',
