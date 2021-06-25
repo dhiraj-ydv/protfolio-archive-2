@@ -61,9 +61,9 @@ const Header = ({ metadata = {}, noBlog = false }) => {
           )}
           {!noBlog && (
             <li className={classes.item}>
-              <Link className={classes.link} to="resume.pdf" download="resume.pdf" target="_blank">
-                Resume
-              </Link>
+          <a className={classes.link} href={resume.pdf}>
+            Download
+            </a>
             </li>
           )}
         </ul>
