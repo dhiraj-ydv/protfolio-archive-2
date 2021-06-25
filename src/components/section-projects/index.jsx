@@ -9,8 +9,8 @@ const SectionProjects = ({ projects }) => {
   return (
     <Section title="Resume">
 
-<div class="col-4 col-6-medium col-12-small">
-											<img src="images/pic01.jpg" class="image fit" alt=""></img>
+{/* <div class="col-4 col-6-medium col-12-small">
+											<img src="images/pic01.jpg" class="image fit" alt=""></img> */}
 
 
       {/* {projects.map((project) => (
