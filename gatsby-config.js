@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
     title: `Dhiraj Yadav`,
     // Description that goes under your name in main bio
-    description: `Learner Web Developer . Programmer`,
+    description: `Learner WebDeveloper . Programmer`,
     // Optional: Twitter account handle
     author: `@DhirajY841`,
     // Optional: Github account URL
@@ -60,7 +60,7 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), HTML5, Node.js, Express.js, CSS, SASS, Bootstrap, jQuery',
+          'JavaScript (ES6+), HTML5, Markdown, Node.js, Express.js, CSS, SASS, Bootstrap, jQuery',
       },
       {
         name: 'Databases',
