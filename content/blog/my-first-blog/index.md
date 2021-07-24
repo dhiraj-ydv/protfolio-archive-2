@@ -1,6 +1,6 @@
 ---
 title: My First Blog Post
-date: '20-06-2021'
+date: '2021-06-20'
 description: 'hello world'
 ---
 
