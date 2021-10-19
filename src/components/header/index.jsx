@@ -54,7 +54,7 @@ const Header = ({ metadata = {}, noBlog = false }) => {
           )}
           {email && (
             <li className={classes.item}>
-              <a className={classes.link} href={linkedin}>
+              <a className={classes.link} href={email}>
                 Email
               </a>
             </li>
