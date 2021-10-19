@@ -7,13 +7,13 @@ module.exports = {
     // Main Site Title
     title: `Dhiraj Yadav`,
     // Description that goes under your name in main bio
-    description: `Learner WebDeveloper . Programmer`,
+    description: ``,
     // Optional: Twitter account handle
     author: `dhirajY08?s=09`,
     // Optional: Github account URL
     github: `https://github.com/dhiraj-ydv`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/dhirajyadav08/`,
+    linkedin: `dhirajy108@gmail.com`,
     // Content of the About Me section
     about: `Hi I am Dhiraj Yadav, a 19 year old Web programmer. 1st year BCA student at Manipal University Jaipur. Areas of interest are Computer science, Theoretical physics, Psychology.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
