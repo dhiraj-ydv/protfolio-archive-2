@@ -1,5 +1,5 @@
 #Protect Directory
 AuthName "Dialog prompt"
 AuthType Basic
-AuthUserFile https://github.com/dhiraj-ydv/protfolio-archive-2/blob/main/.htpasswd
+AuthUserFile C:\Users\dhira\Downloads\portfolio-current-main.htpasswd
 Require valid-user
