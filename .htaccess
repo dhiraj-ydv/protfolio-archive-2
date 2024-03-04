@@ -1,5 +1,5 @@
 #Protect Directory
 AuthName "Dialog prompt"
 AuthType Basic
-AuthUserFile main/.htpasswd
+AuthUserFile /.htpasswd
 Require valid-user
